@@ -43,3 +43,4 @@ packages/  # Pacotes NuGet (C#)
 
 # Outros
 Notes
+.djlintrc
